@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Restaurant Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This repository contains the source code for a modern, fully responsive restaurant landing page designed to provide an immersive and user-friendly experience for potential customers. The landing page serves as a digital front for the restaurant, featuring key information about the menu, services, ambiance, and contact details. It also includes call-to-action sections for reservations and inquiries, enhancing the customer interaction with the restaurant’s online presence.
 
-In the project directory, you can run:
+The design is clean, modern, and optimized for performance across a wide range of devices, ensuring a seamless experience on both desktop and mobile platforms.
 
-### `npm start`
+## Key Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Responsive Layout:** The page is fully responsive and adapts seamlessly to various screen sizes and resolutions (mobile, tablet, desktop).
+- **Navigation Menu:** Easy-to-use navigation bar that anchors to different sections of the landing page (Home, Menu, About, Contact).
+- **Interactive Call-to-Action:** Includes action buttons for reservations, inquiries, and viewing the menu, encouraging engagement.
+- **Image Gallery:** Showcase of the restaurant’s ambiance, food, and events with smooth hover effects.
+- **Integrated Google Maps:** Display of restaurant’s location with an embedded map for easy directions.
+- **SEO Optimized:** Basic SEO features for better visibility in search engines.
+- **Cross-Browser Compatibility:** The page has been tested on major browsers (Chrome, Firefox, Safari, Edge).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **HTML5:** Semantic HTML structure for content.
+- **CSS3:** Custom styles for a modern and professional layout.
+- **JavaScript:** For interactive elements (sliders, forms, and dynamic content).
+- **CSS Flexbox/Grid:** To create a responsive and adaptive layout without using external frameworks.
+- **Google Fonts:** For typography consistency and branding.
+- **Font Awesome:** Icons used throughout the site for navigation and social media links.
+- **Google Maps API:** Integrated for displaying the restaurant's physical location.
+- **[Optional] Bootstrap:** For additional responsive grid features (if applicable).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation & Setup
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Before you begin, ensure that you have a basic understanding of web technologies and a local server (e.g., XAMPP or a code editor like VS Code) if necessary.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Cloning the Repository
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/restaurant-landing-page.git
